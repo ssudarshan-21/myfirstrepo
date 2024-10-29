@@ -1,2 +1,2 @@
 # myfirstrepo
-Author - Sudarshan VR
+Author - Sudarshan VR (me)
